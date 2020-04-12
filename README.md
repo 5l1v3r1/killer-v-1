@@ -1,6 +1,6 @@
-Author: ABDO10
-Date : April, 2020
-tool : killer v 1.1 r 1
+Author: ABDO10 <br>
+Date : April, 2020 <br>
+tool : killer v 1.1 r 1 <br>
 defacerdz@gmail.com
 # Small Explaining:
 shell pawning tool , with a multi buildnig payloads (Lniux & Windows ) 
