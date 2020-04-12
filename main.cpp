@@ -88,7 +88,6 @@ using namespace std ;
 	} 
 	else {
 	
-        set_config << "(C) By ABDO10 \n " << endl;
 	set_config << "	// NO-IP Dns Or IP Address Below:" << endl;  
 	set_config << "	char host[] = {\""<< address << "\"};"<<  endl ; 
 	set_config << "	// TCP PORT Below:" << endl; 
@@ -152,4 +151,3 @@ using namespace std ;
 	return 0;
 
 	}
-
