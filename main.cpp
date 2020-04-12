@@ -19,7 +19,7 @@ using namespace std ;
 	cerr << " -b/--build <system> <type number> <payloadname>        +>        use lising option if u missing them ( system is linux or windows)" << endl; 
 	cerr << " -l/--list                                              +>        Listing payloads " << endl;
 	cerr << " -h/--help                                              +>        Show this help menu " << endl;
-	cerr << "\n [+] E.g +> " << "sudo killer" << " -b windows 1 /home/user/Desktop/payload.exe" << endl;
+	cerr << "\n [+] E.g +> " << "killer" << " -b windows 1 /home/user/Desktop/payload.exe" << endl;
 	cerr << " \n " << endl;
     
     } 
