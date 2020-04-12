@@ -11,9 +11,9 @@ this is created just to take rce sessions , which attacker can easily upgrade it
 * gcc/g++ Mingw Compiler (g++ , i686-w64-mingw32-g++)
 
 [running]
-user@linux:~$ bash build.sh 
+$ bash build.sh 
 <br>
-user@linux:~$ ./killer
+$ ./killer
 
 thanks to all brothers .
 
