@@ -17,6 +17,7 @@ this is created just to take rce sessions , which attacker can easily upgrade it
 * use less codes (just 3 important files in this version)
 * set easy usage 
 * set windows perfect payload and removing other not important payloads 
+* No root required while starting tool 
 <br>
 [we hope this was good for u]
 <br>
